@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{86893D74-1380-48C9-9D25-D2D7699D9E42}|Default">
+﻿<Properties StartupConfiguration="{86893D74-1380-48C9-9D25-D2D7699D9E42}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.PizzaStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
