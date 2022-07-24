@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjYfAEUa6guwnHNqp7Ga/gMvAQ7UBSZuxFjQkbhOy3fu0YFGrytPvU3h1mlx1d67LbOub/pOziBeFMhPZwK/eA==",
+  "success": true,
+  "projectFilePath": "/Users/timothydehof/Dev/PizzaStore/PizzaStore.csproj",
+  "expectedPackageFiles": [
+    "/Users/timothydehof/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/timothydehof/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/timothydehof/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/timothydehof/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/timothydehof/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/timothydehof/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
