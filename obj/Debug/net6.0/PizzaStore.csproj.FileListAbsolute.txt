@@ -25,3 +25,6 @@
 /Users/timothydehof/Dev/PizzaStore/obj/Debug/net6.0/PizzaStore.pdb
 /Users/timothydehof/Dev/PizzaStore/obj/Debug/net6.0/PizzaStore.genruntimeconfig.cache
 /Users/timothydehof/Dev/PizzaStore/obj/Debug/net6.0/ref/PizzaStore.dll
+/Users/timothydehof/Dev/PizzaStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/timothydehof/Dev/PizzaStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/timothydehof/Dev/PizzaStore/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll

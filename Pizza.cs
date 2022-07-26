@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+
+
 namespace PizzaStore.Models 
 {
   public class Pizza
@@ -6,4 +9,9 @@ namespace PizzaStore.Models
       public string? Name { get; set; }
       public string? Description { get; set; }
   }
+class PizzaDb : DbContext
+{
+    public PizzaDb(DbContextOptions options) : base(options) {}
+    public DbSet<Pizza> Pizzas { get; set; }
+}
 }
